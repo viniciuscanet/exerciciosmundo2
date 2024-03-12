@@ -8,3 +8,4 @@ elif nome == 'Pedro' or nome == 'Maria' or nome == 'Paulo':
 
 else:
     print('Tenha um bom dia, {}!'.format(nome))
+#teste de edição
